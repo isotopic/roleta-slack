@@ -1,6 +1,6 @@
 {
-  "name": "Roleta Slack",
-  "description": "Custom slash command for slack",
-  "repository": "https://github.com/isotopic/roleta-slack.git",
+  "name": "Isotopic Slack",
+  "description": "Custom slash commands for slack",
+  "repository": "https://github.com/isotopic/slack.git",
   "addons": []
 }

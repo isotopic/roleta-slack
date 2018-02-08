@@ -1,2 +1,4 @@
-# roleta-slack
+# slack
+
+Custom slash commands for slack.
 
